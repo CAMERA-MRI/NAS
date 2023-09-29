@@ -25,7 +25,7 @@ The aims of the NAS are to:
 This 15 minute survey is the first step towards achieving CAMERA's vision of reducing the disparity in MRI research capacity in Africa. If you want to complete the survey follow the links to do so in [English](https://docs.google.com/forms/d/e/1FAIpQLSe2wIW2Hdd_KCUYIBz8AxkwK509C0VwreAbr4od6w4cYx6mCA/viewform) or in [French](https://docs.google.com/forms/d/e/1FAIpQLSfLm9BsUgInR--O3TKu7mLM3Xj3VZb4zRaXBHUOcvGC8mrQYA/viewform?usp=sf_link). 
 
 ---
-The full questionnaires are also uploaded as pdf files to this repository for public use. If you use, modify or adapt this survey tool in your research, please cite:
+The full questionnaires are also [uploaded as pdf files] (CAMERA_NAS_CC4.0.pdf) to this repository for public use. If you use, modify or adapt this survey tool in your research, please cite:
 
 [Anazodo UC, Ng JJ, Ehiogu B, Obungoloch J, Fatade A, et al., A framework for advancing
 sustainable magnetic resonance imaging access in Africa. NMR Biomed. 2023 Mar;36(3):e4846.
