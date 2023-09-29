@@ -18,7 +18,7 @@ The aims of the NAS are to:
 
 3. Create educational programs to help close gaps in training of highly qualified personnel in MRI. 
 
-4. Help create a consortium of MRI experts and users from Africa interested in collaborating with African MRI scientists and global partners.
+4. Create a network of MRI experts and users from Africa interested in collaborating with African MRI scientists and global partners.
 
 5. Help our vendor partners know how to support MRI needs in Africa.  
 
