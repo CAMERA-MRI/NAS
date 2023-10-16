@@ -28,7 +28,7 @@ This 15 minute survey is the first step towards achieving CAMERA's vision of red
 If you want to complete the survey, please follow the links to do so in [English](https://docs.google.com/forms/d/e/1FAIpQLSe2wIW2Hdd_KCUYIBz8AxkwK509C0VwreAbr4od6w4cYx6mCA/viewform) or in [French](https://docs.google.com/forms/d/e/1FAIpQLSfLm9BsUgInR--O3TKu7mLM3Xj3VZb4zRaXBHUOcvGC8mrQYA/viewform?usp=sf_link). 
 
 ---
-If you want to use the survey in your research, please download the pdf file in ([English](https://github.com/CAMERA-MRI/NAS/blob/main/CAMERA_NAS_CC4.0.pdf) or in [French](https://github.com/CAMERA-MRI/NAS/blob/main/CAMERA_NAS_CC4.0_french.pdf)). If you use, modify or adapt this survey tool in your research, please cite:
+If you want to use the survey in your research, please download the pdf file in [English](https://github.com/CAMERA-MRI/NAS/blob/main/CAMERA_NAS_CC4.0.pdf) or in [French](https://github.com/CAMERA-MRI/NAS/blob/main/CAMERA_NAS_CC4.0_french.pdf). If you use, modify or adapt this survey tool in your research, please cite:
 
 [Anazodo UC, Ng JJ, Ehiogu B, Obungoloch J, Fatade A, et al., A framework for advancing
 sustainable magnetic resonance imaging access in Africa. NMR Biomed. 2023 Mar;36(3):e4846.
