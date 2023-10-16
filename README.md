@@ -5,7 +5,7 @@
  </p>
  
 # CAMERA Need Assessment Survey (NAS)
-The Needs Assessment Survey (NAS) was designed to identify MRI needs unique to Africa based on a pilot field survey of seven MRI facilities in Nigeria in 2020 and the RAD-AID Radiology-Readiness Survey<sup> TM </sup>. The survey along with a series of symposia at international MRI society meetings informed a framework for addressing MRI needs in Africa and a model for advancing imaging capacity in resource-limited settings.
+The Needs Assessment Survey (NAS) was designed to identify MRI needs unique to Africa based on a pilot field survey of seven MRI facilities in Nigeria in 2020 and the RAD-AID Radiology-Readiness Survey<sup> TM </sup>. The survey, along with a series of symposia at international MRI society meetings informed a framework for addressing MRI needs in Africa and a model for advancing imaging capacity in resource-limited settings.
 
  <p align="center">
  <img src="pictures/NAS_picture1.png" alt="drawing" width="600"/>
